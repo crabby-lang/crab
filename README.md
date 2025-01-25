@@ -12,6 +12,10 @@ crab init [--lib, --bin, --test]
 
 crab new <project_name> [--lib, --bin, --test]
 
+crab add <package_name>
+
+crab remove <package_name>
+
 crab build
 
 crab run
