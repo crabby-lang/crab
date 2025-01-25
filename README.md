@@ -1,6 +1,6 @@
-# Crab: A Project builder and runner for the Crabby language
+# Crab: Package Manager of Crabby
 
-Introducing `crab`, just like Rust `cargo`, Crab is a project builder for Crabby,
+Introducing `crab`, just like Rust `cargo` or `pip` for Python, Crab is a package manager and project builder for Crabby,
 Write new crabby libraries and applications!
 
 ## Commands:
