@@ -3,7 +3,7 @@
 Introducing `crab`, just like Rust `cargo` or `pip` for Python, Crab is a package manager and project builder for Crabby,
 Write new crabby libraries and applications!
 
-## Commands:
+## Commands
 
 Here are some `beta` commands that crab🦀 has:
 
