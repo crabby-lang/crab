@@ -4,7 +4,7 @@ Introducing `crab`, Crab is a package manager and project builder for Crabby,
 Write new crabby libraries and applications!
 
 > [!WARNING]
-> Crab is still in development, changes will occur
+> Crab is under active development and is not stable yet.
 
 ## Commands
 
